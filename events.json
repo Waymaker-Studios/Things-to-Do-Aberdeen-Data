@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T14:42:23Z",
+  "updatedAt": "2026-11-26T14:55:34Z",
   "activities": [
     {
       "id": "choose_christmas_tree",
@@ -2892,7 +2892,7 @@
       "venueName": "Kingswells Community Centre, Aberdeen",
       "minimumPrice": 0.0,
       "maximumPrice": 0.0,
-      "activityLink": "https://www.sportaberdeen.co.uk/activities/active-lifestyles/walk-aberdeen/",
+      "activityLink": "https://walkingscotland.org.uk/walk-project/walk-aberdeen/",
       "bookingRequired": null,
       "requirements": [
         "For more information contact bharrison@sportaberdeen.co.uk",
@@ -2935,7 +2935,7 @@
       "venueName": "Altens Community Centre, Aberdeen",
       "minimumPrice": 0.0,
       "maximumPrice": 0.0,
-      "activityLink": "https://www.sportaberdeen.co.uk/activities/active-lifestyles/walk-aberdeen/",
+      "activityLink": "https://walkingscotland.org.uk/walk-project/walk-aberdeen/",
       "bookingRequired": null,
       "requirements": [
         "For more information contact bharrison@sportaberdeen.co.uk",
@@ -2978,7 +2978,7 @@
       "venueName": "Cults Kirk Centre, 404 North Deeside Road, Cults, Aberdeen, AB15 9TD",
       "minimumPrice": 0.0,
       "maximumPrice": 0.0,
-      "activityLink": "https://www.sportaberdeen.co.uk/activities/active-lifestyles/",
+      "activityLink": "https://walkingscotland.org.uk/walk-project/walk-aberdeen/",
       "bookingRequired": null,
       "requirements": [
         "For more information contact activelifestyles@sportaberdeen.co.uk"
@@ -3020,7 +3020,7 @@
       "venueName": "Ferryhill Community Centre / Albury Community Sports Hub, Aberdeen",
       "minimumPrice": 0.0,
       "maximumPrice": 0.0,
-      "activityLink": "https://www.sportaberdeen.co.uk/activities/active-lifestyles/walk-aberdeen/",
+      "activityLink": "https://walkingscotland.org.uk/walk-project/walk-aberdeen/",
       "bookingRequired": null,
       "requirements": [
         "For more information contact bharrison@sportaberdeen.co.uk",
@@ -3869,12 +3869,12 @@
       "venueName": "Inchgarth Community Centre, Aboyne Place, Garthdee, Aberdeen, AB10 7DR",
       "minimumPrice": null,
       "maximumPrice": null,
-      "activityLink": "https://www.inchgarth.co.uk/uploads/7/7/1/0/77101927/inchgarth_community_centre_april__2026.pdf",
-      "bookingRequired": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
       "requirements": [
-        "Contact alex@createaberdeen.org"
+        "Advance booking required: info@createaberdeen.org or 01224 313323"
       ],
-      "ageSuitability": "allAges",
+      "ageSuitability": "adultsOnly",
       "categories": [
         0,
         7
@@ -4111,12 +4111,12 @@
       "venueName": "Inchgarth Community Centre, Aboyne Place, Garthdee, Aberdeen, AB10 7DR",
       "minimumPrice": null,
       "maximumPrice": null,
-      "activityLink": "https://www.inchgarth.co.uk/uploads/7/7/1/0/77101927/inchgarth_community_centre_april__2026.pdf",
-      "bookingRequired": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
       "requirements": [
-        "Contact alex@createaberdeen.org"
+        "Advance booking required: info@createaberdeen.org or 01224 313323"
       ],
-      "ageSuitability": "allAges",
+      "ageSuitability": "adultsOnly",
       "categories": [
         0,
         7
@@ -4454,12 +4454,12 @@
       "venueName": "Inchgarth Community Centre, Aboyne Place, Garthdee, Aberdeen, AB10 7DR",
       "minimumPrice": null,
       "maximumPrice": null,
-      "activityLink": "https://www.inchgarth.co.uk/uploads/7/7/1/0/77101927/inchgarth_community_centre_april__2026.pdf",
-      "bookingRequired": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
       "requirements": [
-        "Contact alex@createaberdeen.org"
+        "Advance booking required: info@createaberdeen.org or 01224 313323"
       ],
-      "ageSuitability": "allAges",
+      "ageSuitability": "adultsOnly",
       "categories": [
         0,
         7
@@ -4575,13 +4575,15 @@
       "activityName": "A Chance to Dance - Create Aberdeen",
       "description": "An inclusive dance session for adults with additional support needs.",
       "venueName": "Inchgarth Community Centre, Aboyne Place, Garthdee, Aberdeen, AB10 7DR",
-      "minimumPrice": null,
-      "maximumPrice": null,
-      "activityLink": "https://www.inchgarth.co.uk/uploads/7/7/1/0/77101927/inchgarth_community_centre_april__2026.pdf",
-      "bookingRequired": null,
+      "minimumPrice": 5.0,
+      "maximumPrice": 5.0,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
       "requirements": [
         "Adults with additional support needs",
-        "Call 01224 479061 to enquire"
+        "Call 01224 479061 to enquire",
+        "Advance booking required: info@createaberdeen.org or 01224 313323",
+        "Contact Inchgarth to book"
       ],
       "ageSuitability": "adultsOnly",
       "categories": [
@@ -5066,12 +5068,12 @@
       "venueName": "Inchgarth Community Centre, Aboyne Place, Garthdee, Aberdeen, AB10 7DR",
       "minimumPrice": null,
       "maximumPrice": null,
-      "activityLink": "https://www.inchgarth.co.uk/uploads/7/7/1/0/77101927/inchgarth_community_centre_april__2026.pdf",
-      "bookingRequired": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
       "requirements": [
-        "Contact alex@createaberdeen.org"
+        "Advance booking required: info@createaberdeen.org or 01224 313323"
       ],
-      "ageSuitability": "allAges",
+      "ageSuitability": "adultsOnly",
       "categories": [
         0,
         7
@@ -5673,12 +5675,12 @@
       "venueName": "Inchgarth Community Centre, Aboyne Place, Garthdee, Aberdeen, AB10 7DR",
       "minimumPrice": null,
       "maximumPrice": null,
-      "activityLink": "https://www.inchgarth.co.uk/uploads/7/7/1/0/77101927/inchgarth_community_centre_april__2026.pdf",
-      "bookingRequired": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
       "requirements": [
-        "Contact alex@createaberdeen.org"
+        "Advance booking required: info@createaberdeen.org or 01224 313323"
       ],
-      "ageSuitability": "allAges",
+      "ageSuitability": "adultsOnly",
       "categories": [
         0,
         7
@@ -5753,12 +5755,12 @@
       "venueName": "Inchgarth Community Centre, Aboyne Place, Garthdee, Aberdeen, AB10 7DR",
       "minimumPrice": null,
       "maximumPrice": null,
-      "activityLink": "https://www.inchgarth.co.uk/uploads/7/7/1/0/77101927/inchgarth_community_centre_april__2026.pdf",
-      "bookingRequired": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
       "requirements": [
-        "Contact alex@createaberdeen.org"
+        "Advance booking required: info@createaberdeen.org or 01224 313323"
       ],
-      "ageSuitability": "allAges",
+      "ageSuitability": "adultsOnly",
       "categories": [
         0,
         7
@@ -5793,12 +5795,12 @@
       "venueName": "Inchgarth Community Centre, Aboyne Place, Garthdee, Aberdeen, AB10 7DR",
       "minimumPrice": null,
       "maximumPrice": null,
-      "activityLink": "https://www.inchgarth.co.uk/uploads/7/7/1/0/77101927/inchgarth_community_centre_april__2026.pdf",
-      "bookingRequired": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
       "requirements": [
-        "Contact alex@createaberdeen.org"
+        "Advance booking required: info@createaberdeen.org or 01224 313323"
       ],
-      "ageSuitability": "allAges",
+      "ageSuitability": "adultsOnly",
       "categories": [
         7,
         9
@@ -6846,9 +6848,9 @@
       "activityName": "Ceilidh Fun - Scottish Country Dancing",
       "description": "A Scottish country-dancing class focused on enjoyable ceilidh-style dancing.",
       "venueName": "Kincorth Community Centre, Provost Watt Drive, Kincorth, Aberdeen, AB12 5NA",
-      "minimumPrice": null,
-      "maximumPrice": null,
-      "activityLink": "https://www.aberdeenrscds.co.uk/classes",
+      "minimumPrice": 6.0,
+      "maximumPrice": 6.0,
+      "activityLink": "https://www.aberdeenrscds.co.uk/copy-of-general-mondays",
       "bookingRequired": null,
       "requirements": [
         "Runs on the 1st and 3rd Tuesday",
@@ -6872,38 +6874,9 @@
           "date": "2026-12-01",
           "startTime": "20:00",
           "durationMinutes": 90
-        },
-        {
-          "id": "kincorth-ceilidh-fun-151226-2000",
-          "date": "2026-12-15",
-          "startTime": "20:00",
-          "durationMinutes": 90
         }
       ],
-      "recurrenceRules": [
-        {
-          "frequency": "monthly",
-          "weekdays": [
-            "tuesday"
-          ],
-          "startDate": "2026-12-01",
-          "endDate": "2026-12-15",
-          "startTime": "20:00",
-          "durationMinutes": 90,
-          "weekOfMonth": 1
-        },
-        {
-          "frequency": "monthly",
-          "weekdays": [
-            "tuesday"
-          ],
-          "startDate": "2026-11-17",
-          "endDate": "2026-12-15",
-          "startTime": "20:00",
-          "durationMinutes": 90,
-          "weekOfMonth": 3
-        }
-      ]
+      "recurrenceRules": []
     },
     {
       "id": "kincorth_advanced_demo_scottish_dance",
@@ -6968,6 +6941,1810 @@
           "startTime": "20:00",
           "durationMinutes": 90,
           "weekOfMonth": 4
+        }
+      ]
+    },
+    {
+      "id": "create_sports_challenge",
+      "activityId": "create_sports_challenge",
+      "activityName": "Sports Challenge and Games - Create Aberdeen",
+      "description": "Adaptable group sports and games including boccia.",
+      "venueName": "Hilton Community Centre, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
+      "requirements": [
+        "For adults with learning disabilities",
+        "Advance booking: info@createaberdeen.org or 01224 313323",
+        "Confirm holiday opening dates with organiser"
+      ],
+      "ageSuitability": "adultsOnly",
+      "categories": [
+        1,
+        9
+      ],
+      "tags": [
+        "community",
+        "inclusive",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "monday"
+          ],
+          "startDate": "2026-11-30",
+          "endDate": null,
+          "startTime": "10:00",
+          "durationMinutes": 300
+        }
+      ]
+    },
+    {
+      "id": "create_outreach",
+      "activityId": "create_outreach",
+      "activityName": "Outreach Group - Create Aberdeen",
+      "description": "Develop drama and musical performance skills.",
+      "venueName": "Hilton Community Centre, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
+      "requirements": [
+        "For adults with learning disabilities",
+        "Advance booking: info@createaberdeen.org or 01224 313323",
+        "Confirm holiday opening dates with organiser"
+      ],
+      "ageSuitability": "adultsOnly",
+      "categories": [
+        0,
+        8
+      ],
+      "tags": [
+        "community",
+        "inclusive",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "monday"
+          ],
+          "startDate": "2026-11-30",
+          "endDate": null,
+          "startTime": "10:00",
+          "durationMinutes": 300
+        }
+      ]
+    },
+    {
+      "id": "create_creative_movement",
+      "activityId": "create_creative_movement",
+      "activityName": "Creative Movement and Storytelling - Create Aberdeen",
+      "description": "Explore movement and storytelling in a group.",
+      "venueName": "Hilton Community Centre, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
+      "requirements": [
+        "For adults with learning disabilities",
+        "Advance booking: info@createaberdeen.org or 01224 313323",
+        "Confirm holiday opening dates with organiser"
+      ],
+      "ageSuitability": "adultsOnly",
+      "categories": [
+        0,
+        8
+      ],
+      "tags": [
+        "community",
+        "inclusive",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "tuesday"
+          ],
+          "startDate": "2026-12-01",
+          "endDate": null,
+          "startTime": "10:00",
+          "durationMinutes": 120
+        }
+      ]
+    },
+    {
+      "id": "create_arts_crafts_tuesday",
+      "activityId": "create_arts_crafts_tuesday",
+      "activityName": "Arts and Crafts - Create Aberdeen",
+      "description": "Take part in creative craft activities.",
+      "venueName": "Hilton Community Centre, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
+      "requirements": [
+        "For adults with learning disabilities",
+        "Advance booking: info@createaberdeen.org or 01224 313323",
+        "Confirm holiday opening dates with organiser"
+      ],
+      "ageSuitability": "adultsOnly",
+      "categories": [
+        0,
+        8
+      ],
+      "tags": [
+        "community",
+        "inclusive",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "tuesday"
+          ],
+          "startDate": "2026-12-01",
+          "endDate": null,
+          "startTime": "13:00",
+          "durationMinutes": 120
+        }
+      ]
+    },
+    {
+      "id": "create_wheelchair_dance",
+      "activityId": "create_wheelchair_dance",
+      "activityName": "Strictly Wheelchair Dancing - Create Aberdeen",
+      "description": "A wheelchair-inclusive dance session.",
+      "venueName": "Hilton Community Centre, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
+      "requirements": [
+        "For adults with learning disabilities",
+        "Advance booking: info@createaberdeen.org or 01224 313323",
+        "Confirm holiday opening dates with organiser"
+      ],
+      "ageSuitability": "adultsOnly",
+      "categories": [
+        0,
+        1
+      ],
+      "tags": [
+        "community",
+        "inclusive",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "tuesday"
+          ],
+          "startDate": "2026-12-01",
+          "endDate": null,
+          "startTime": "10:00",
+          "durationMinutes": 120
+        }
+      ]
+    },
+    {
+      "id": "create_zumba_hilton",
+      "activityId": "create_zumba_hilton",
+      "activityName": "Zumba, Dance and Exercise to Music - Create Aberdeen",
+      "description": "Dance and exercise with music.",
+      "venueName": "Hilton Community Centre, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
+      "requirements": [
+        "For adults with learning disabilities",
+        "Advance booking: info@createaberdeen.org or 01224 313323",
+        "Confirm holiday opening dates with organiser"
+      ],
+      "ageSuitability": "adultsOnly",
+      "categories": [
+        1,
+        7
+      ],
+      "tags": [
+        "community",
+        "inclusive",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "tuesday"
+          ],
+          "startDate": "2026-12-01",
+          "endDate": null,
+          "startTime": "13:00",
+          "durationMinutes": 120
+        }
+      ]
+    },
+    {
+      "id": "create_va_va_voom",
+      "activityId": "create_va_va_voom",
+      "activityName": "Va Va Voom Drama - Create Aberdeen",
+      "description": "Group drama activities.",
+      "venueName": "Len Ironside Centre, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
+      "requirements": [
+        "For adults with learning disabilities",
+        "Advance booking: info@createaberdeen.org or 01224 313323",
+        "Confirm holiday opening dates with organiser"
+      ],
+      "ageSuitability": "adultsOnly",
+      "categories": [
+        0,
+        8
+      ],
+      "tags": [
+        "community",
+        "inclusive",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "tuesday"
+          ],
+          "startDate": "2026-12-01",
+          "endDate": null,
+          "startTime": "18:00",
+          "durationMinutes": 120
+        }
+      ]
+    },
+    {
+      "id": "create_arts_crafts_thursday",
+      "activityId": "create_arts_crafts_thursday",
+      "activityName": "Art and Crafts - Create Aberdeen",
+      "description": "A daytime creative arts group.",
+      "venueName": "Hilton Community Centre, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
+      "requirements": [
+        "For adults with learning disabilities",
+        "Advance booking: info@createaberdeen.org or 01224 313323",
+        "Confirm holiday opening dates with organiser"
+      ],
+      "ageSuitability": "adultsOnly",
+      "categories": [
+        0,
+        8
+      ],
+      "tags": [
+        "community",
+        "inclusive",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "thursday"
+          ],
+          "startDate": "2026-11-26",
+          "endDate": null,
+          "startTime": "10:00",
+          "durationMinutes": 300
+        }
+      ]
+    },
+    {
+      "id": "create_makaton_rock_choir",
+      "activityId": "create_makaton_rock_choir",
+      "activityName": "Makaton Rock Choir - Create Aberdeen",
+      "description": "Music and signing in a group.",
+      "venueName": "Len Ironside Cafe, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
+      "requirements": [
+        "For adults with learning disabilities",
+        "Advance booking: info@createaberdeen.org or 01224 313323",
+        "Confirm holiday opening dates with organiser"
+      ],
+      "ageSuitability": "adultsOnly",
+      "categories": [
+        0,
+        9
+      ],
+      "tags": [
+        "community",
+        "inclusive",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "thursday"
+          ],
+          "startDate": "2026-11-26",
+          "endDate": null,
+          "startTime": "18:00",
+          "durationMinutes": 120
+        }
+      ]
+    },
+    {
+      "id": "create_friday_friends",
+      "activityId": "create_friday_friends",
+      "activityName": "Friday Friends Group - Create Aberdeen",
+      "description": "A range of social activities for younger adults.",
+      "venueName": "Airyhall Community Centre, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://createaberdeen.org/programme.html",
+      "bookingRequired": true,
+      "requirements": [
+        "For adults with learning disabilities",
+        "Advance booking: info@createaberdeen.org or 01224 313323",
+        "Confirm holiday opening dates with organiser"
+      ],
+      "ageSuitability": "adultsOnly",
+      "categories": [
+        7,
+        9
+      ],
+      "tags": [
+        "community",
+        "inclusive",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "friday"
+          ],
+          "startDate": "2026-11-27",
+          "endDate": null,
+          "startTime": "10:00",
+          "durationMinutes": 300
+        }
+      ]
+    },
+    {
+      "id": "art_books_blether",
+      "activityId": "art_books_blether",
+      "activityName": "Art, Books and Blether",
+      "description": "Explore art-related reading and discussion in the McBey Library.",
+      "venueName": "Aberdeen Art Gallery",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://sites.aberdeencity.gov.uk/AAGM/whats-aberdeen-art-galleries-and-museums/book-group-art-books-and-blether",
+      "bookingRequired": false,
+      "requirements": [
+        "Pay what you can"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        8,
+        9
+      ],
+      "tags": [
+        "books",
+        "art",
+        "social"
+      ],
+      "timeOptions": [
+        {
+          "id": "art-books-blether-20261212-1430",
+          "date": "2026-12-12",
+          "startTime": "14:30",
+          "durationMinutes": 60
+        },
+        {
+          "id": "art-books-blether-20270213-1430",
+          "date": "2027-02-13",
+          "startTime": "14:30",
+          "durationMinutes": 60
+        },
+        {
+          "id": "art-books-blether-20270313-1430",
+          "date": "2027-03-13",
+          "startTime": "14:30",
+          "durationMinutes": 60
+        }
+      ],
+      "recurrenceRules": []
+    },
+    {
+      "id": "techfest_night_sky",
+      "activityId": "techfest_night_sky",
+      "activityName": "TechFest Dome: Discover the Night Sky",
+      "description": "Explore constellations and planets in an interactive astronomy experience.",
+      "venueName": "Aberdeen Art Gallery",
+      "minimumPrice": 0,
+      "maximumPrice": 0,
+      "activityLink": "https://sites.aberdeencity.gov.uk/AAGM/whats-aberdeen-art-galleries-and-museums/techfest-dome-discover-the-night-sky",
+      "bookingRequired": false,
+      "requirements": [
+        "Ages 8+ and families",
+        "Drop in between 10am and 5pm"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        8,
+        10
+      ],
+      "tags": [
+        "science",
+        "family-friendly",
+        "free"
+      ],
+      "timeOptions": [
+        {
+          "id": "techfest-night-sky-20270220-1000",
+          "date": "2027-02-20",
+          "startTime": "10:00",
+          "durationMinutes": null
+        }
+      ],
+      "recurrenceRules": []
+    },
+    {
+      "id": "cosmos_spotlight_tours",
+      "activityId": "cosmos_spotlight_tours",
+      "activityName": "Spotlight Tours: COSMOS",
+      "description": "Short exhibition tours led by Gray’s School of Art students.",
+      "venueName": "Aberdeen Art Gallery",
+      "minimumPrice": 0,
+      "maximumPrice": null,
+      "activityLink": "https://sites.aberdeencity.gov.uk/AAGM/whats-aberdeen-art-galleries-and-museums/spotlight-tours-cosmos",
+      "bookingRequired": null,
+      "requirements": [
+        "Free; optional donation",
+        "Check tour start time with venue"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        0,
+        8
+      ],
+      "tags": [
+        "art",
+        "tour",
+        "learning"
+      ],
+      "timeOptions": [
+        {
+          "id": "cosmos-spotlight-tours-20261128-opening-time-not-listed",
+          "date": "2026-11-28",
+          "startTime": "Opening time not listed",
+          "durationMinutes": 30
+        },
+        {
+          "id": "cosmos-spotlight-tours-20270130-opening-time-not-listed",
+          "date": "2027-01-30",
+          "startTime": "Opening time not listed",
+          "durationMinutes": 30
+        },
+        {
+          "id": "cosmos-spotlight-tours-20270206-opening-time-not-listed",
+          "date": "2027-02-06",
+          "startTime": "Opening time not listed",
+          "durationMinutes": 30
+        },
+        {
+          "id": "cosmos-spotlight-tours-20270213-opening-time-not-listed",
+          "date": "2027-02-13",
+          "startTime": "Opening time not listed",
+          "durationMinutes": 30
+        },
+        {
+          "id": "cosmos-spotlight-tours-20270220-opening-time-not-listed",
+          "date": "2027-02-20",
+          "startTime": "Opening time not listed",
+          "durationMinutes": 30
+        },
+        {
+          "id": "cosmos-spotlight-tours-20270227-opening-time-not-listed",
+          "date": "2027-02-27",
+          "startTime": "Opening time not listed",
+          "durationMinutes": 30
+        },
+        {
+          "id": "cosmos-spotlight-tours-20270306-opening-time-not-listed",
+          "date": "2027-03-06",
+          "startTime": "Opening time not listed",
+          "durationMinutes": 30
+        },
+        {
+          "id": "cosmos-spotlight-tours-20270313-opening-time-not-listed",
+          "date": "2027-03-13",
+          "startTime": "Opening time not listed",
+          "durationMinutes": 30
+        },
+        {
+          "id": "cosmos-spotlight-tours-20270320-opening-time-not-listed",
+          "date": "2027-03-20",
+          "startTime": "Opening time not listed",
+          "durationMinutes": 30
+        },
+        {
+          "id": "cosmos-spotlight-tours-20270327-opening-time-not-listed",
+          "date": "2027-03-27",
+          "startTime": "Opening time not listed",
+          "durationMinutes": 30
+        },
+        {
+          "id": "cosmos-spotlight-tours-20270403-opening-time-not-listed",
+          "date": "2027-04-03",
+          "startTime": "Opening time not listed",
+          "durationMinutes": 30
+        },
+        {
+          "id": "cosmos-spotlight-tours-20270410-opening-time-not-listed",
+          "date": "2027-04-10",
+          "startTime": "Opening time not listed",
+          "durationMinutes": 30
+        }
+      ],
+      "recurrenceRules": []
+    },
+    {
+      "id": "festive_gallery_popups",
+      "activityId": "festive_gallery_popups",
+      "activityName": "Festive Pop-ups",
+      "description": "Seasonal songs performed by a different local choir each Saturday.",
+      "venueName": "Cowdray Hall",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://sites.aberdeencity.gov.uk/AAGM/whats-aberdeen-art-galleries-and-museums/festive-pop-ups",
+      "bookingRequired": null,
+      "requirements": [
+        "Pay what you can"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        0,
+        3
+      ],
+      "tags": [
+        "music",
+        "christmas",
+        "community"
+      ],
+      "timeOptions": [
+        {
+          "id": "festive-gallery-popups-20261128-1230",
+          "date": "2026-11-28",
+          "startTime": "12:30",
+          "durationMinutes": 30
+        },
+        {
+          "id": "festive-gallery-popups-20261128-1430",
+          "date": "2026-11-28",
+          "startTime": "14:30",
+          "durationMinutes": 30
+        },
+        {
+          "id": "festive-gallery-popups-20261205-1230",
+          "date": "2026-12-05",
+          "startTime": "12:30",
+          "durationMinutes": 30
+        },
+        {
+          "id": "festive-gallery-popups-20261205-1430",
+          "date": "2026-12-05",
+          "startTime": "14:30",
+          "durationMinutes": 30
+        },
+        {
+          "id": "festive-gallery-popups-20261212-1230",
+          "date": "2026-12-12",
+          "startTime": "12:30",
+          "durationMinutes": 30
+        },
+        {
+          "id": "festive-gallery-popups-20261212-1430",
+          "date": "2026-12-12",
+          "startTime": "14:30",
+          "durationMinutes": 30
+        },
+        {
+          "id": "festive-gallery-popups-20261219-1230",
+          "date": "2026-12-19",
+          "startTime": "12:30",
+          "durationMinutes": 30
+        },
+        {
+          "id": "festive-gallery-popups-20261219-1430",
+          "date": "2026-12-19",
+          "startTime": "14:30",
+          "durationMinutes": 30
+        }
+      ],
+      "recurrenceRules": []
+    },
+    {
+      "id": "north_east_christmas",
+      "activityId": "north_east_christmas",
+      "activityName": "A North East Christmas",
+      "description": "Seasonal music with local instrumentalists and singers.",
+      "venueName": "Cowdray Hall",
+      "minimumPrice": 13,
+      "maximumPrice": 17,
+      "activityLink": "https://sites.aberdeencity.gov.uk/AAGM/whats-aberdeen-art-galleries-and-museums/a-north-east-christmas",
+      "bookingRequired": true,
+      "requirements": [],
+      "ageSuitability": "allAges",
+      "categories": [
+        0,
+        3
+      ],
+      "tags": [
+        "music",
+        "christmas"
+      ],
+      "timeOptions": [
+        {
+          "id": "north-east-christmas-20261211-1930",
+          "date": "2026-12-11",
+          "startTime": "19:30",
+          "durationMinutes": 120
+        }
+      ],
+      "recurrenceRules": []
+    },
+    {
+      "id": "robert_gordons_college_concert",
+      "activityId": "robert_gordons_college_concert",
+      "activityName": "Robert Gordon’s College Lunchtime Concert",
+      "description": "Senior pupils perform instrumental and vocal music.",
+      "venueName": "Cowdray Hall",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://sites.aberdeencity.gov.uk/AAGM/whats-aberdeen-art-galleries-and-museums/robert-gordons-college",
+      "bookingRequired": null,
+      "requirements": [
+        "Pay what you can"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        0,
+        3
+      ],
+      "tags": [
+        "music",
+        "concert"
+      ],
+      "timeOptions": [
+        {
+          "id": "robert-gordons-college-concert-20261210-1245",
+          "date": "2026-12-10",
+          "startTime": "12:45",
+          "durationMinutes": 45
+        }
+      ],
+      "recurrenceRules": []
+    },
+    {
+      "id": "fort_of_bulls_talk",
+      "activityId": "fort_of_bulls_talk",
+      "activityName": "The Fort of the Bulls - Professor Gordon Noble",
+      "description": "A lecture on archaeological discoveries at Burghead and the Northern Picts.",
+      "venueName": "Meston Building, Lecture Theatre 1, University of Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://www.eventbrite.co.uk/e/talk-the-fort-of-the-bulls-professor-gordon-noble-tickets-2004762424378",
+      "bookingRequired": true,
+      "requirements": [],
+      "ageSuitability": "allAges",
+      "categories": [
+        8,
+        0
+      ],
+      "tags": [
+        "history",
+        "talk",
+        "learning"
+      ],
+      "timeOptions": [
+        {
+          "id": "fort-of-bulls-talk-20270128-1800",
+          "date": "2027-01-28",
+          "startTime": "18:00",
+          "durationMinutes": 60
+        }
+      ],
+      "recurrenceRules": []
+    },
+    {
+      "id": "curated_square_market",
+      "activityId": "curated_square_market",
+      "activityName": "Curated in the Square",
+      "description": "Browse local makers’ gifts, crafts and seasonal produce.",
+      "venueName": "Marischal Square, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://www.charliehouse.org.uk/events/curated-in-the-square",
+      "bookingRequired": null,
+      "requirements": [],
+      "ageSuitability": "allAges",
+      "categories": [
+        9,
+        10
+      ],
+      "tags": [
+        "market",
+        "craft",
+        "christmas"
+      ],
+      "timeOptions": [
+        {
+          "id": "curated-square-market-20261127-1200",
+          "date": "2026-11-27",
+          "startTime": "12:00",
+          "durationMinutes": 420
+        },
+        {
+          "id": "curated-square-market-20261128-1100",
+          "date": "2026-11-28",
+          "startTime": "11:00",
+          "durationMinutes": 480
+        },
+        {
+          "id": "curated-square-market-20261129-1100",
+          "date": "2026-11-29",
+          "startTime": "11:00",
+          "durationMinutes": 420
+        },
+        {
+          "id": "curated-square-market-20261204-1200",
+          "date": "2026-12-04",
+          "startTime": "12:00",
+          "durationMinutes": 420
+        },
+        {
+          "id": "curated-square-market-20261205-1100",
+          "date": "2026-12-05",
+          "startTime": "11:00",
+          "durationMinutes": 480
+        },
+        {
+          "id": "curated-square-market-20261206-1100",
+          "date": "2026-12-06",
+          "startTime": "11:00",
+          "durationMinutes": 420
+        },
+        {
+          "id": "curated-square-market-20261211-1200",
+          "date": "2026-12-11",
+          "startTime": "12:00",
+          "durationMinutes": 420
+        },
+        {
+          "id": "curated-square-market-20261212-1100",
+          "date": "2026-12-12",
+          "startTime": "11:00",
+          "durationMinutes": 480
+        },
+        {
+          "id": "curated-square-market-20261213-1100",
+          "date": "2026-12-13",
+          "startTime": "11:00",
+          "durationMinutes": 420
+        },
+        {
+          "id": "curated-square-market-20261218-1200",
+          "date": "2026-12-18",
+          "startTime": "12:00",
+          "durationMinutes": 420
+        },
+        {
+          "id": "curated-square-market-20261219-1100",
+          "date": "2026-12-19",
+          "startTime": "11:00",
+          "durationMinutes": 480
+        },
+        {
+          "id": "curated-square-market-20261220-1100",
+          "date": "2026-12-20",
+          "startTime": "11:00",
+          "durationMinutes": 420
+        },
+        {
+          "id": "curated-square-market-20261221-1200",
+          "date": "2026-12-21",
+          "startTime": "12:00",
+          "durationMinutes": 420
+        },
+        {
+          "id": "curated-square-market-20261222-1200",
+          "date": "2026-12-22",
+          "startTime": "12:00",
+          "durationMinutes": 420
+        },
+        {
+          "id": "curated-square-market-20261223-1200",
+          "date": "2026-12-23",
+          "startTime": "12:00",
+          "durationMinutes": 420
+        }
+      ],
+      "recurrenceRules": []
+    },
+    {
+      "id": "we_too_relaxed_christmas",
+      "activityId": "we_too_relaxed_christmas",
+      "activityName": "We Too! Relaxed Christmas Party",
+      "description": "A sensory-considerate festive party with games, quieter music and optional Santa visit.",
+      "venueName": "Inchgarth Community Centre, Aberdeen",
+      "minimumPrice": 6,
+      "maximumPrice": 6,
+      "activityLink": "https://visitabdn.com/events/3186184-asn-we-too-relaxed-christmas-party-2026-inchgarth-community-centre",
+      "bookingRequired": true,
+      "requirements": [
+        "Tickets for children only",
+        "Parents or carers must remain on site"
+      ],
+      "ageSuitability": "children",
+      "categories": [
+        10,
+        9
+      ],
+      "tags": [
+        "christmas",
+        "inclusive",
+        "family-friendly"
+      ],
+      "timeOptions": [
+        {
+          "id": "we-too-relaxed-christmas-20261206-1330",
+          "date": "2026-12-06",
+          "startTime": "13:30",
+          "durationMinutes": 90
+        }
+      ],
+      "recurrenceRules": []
+    },
+    {
+      "id": "allstars_abba",
+      "activityId": "allstars_abba",
+      "activityName": "ALLSTARS: The Music of ABBA",
+      "description": "Live band and pop singers perform ABBA songs.",
+      "venueName": "P&J Live, Hall C, Aberdeen",
+      "minimumPrice": 35,
+      "maximumPrice": null,
+      "activityLink": "https://www.teca.co.uk/events/allstars-the-music-of-abba-hall-c/",
+      "bookingRequired": true,
+      "requirements": [
+        "From £35 plus fees",
+        "Under 14s must be accompanied by an adult aged 18+"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        0,
+        3,
+        6
+      ],
+      "tags": [
+        "music",
+        "concert"
+      ],
+      "timeOptions": [
+        {
+          "id": "allstars-abba-20270305-1930",
+          "date": "2027-03-05",
+          "startTime": "19:30",
+          "durationMinutes": null
+        }
+      ],
+      "recurrenceRules": []
+    },
+    {
+      "id": "rosemount_craft",
+      "activityId": "rosemount_craft",
+      "activityName": "Craft Group",
+      "description": "Bring a creative project and work alongside fellow crafters.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": 2.5,
+      "maximumPrice": 2.5,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": null,
+      "requirements": [
+        "Programme ends 18 December 2026",
+        "Enquiries/enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        8,
+        9
+      ],
+      "tags": [
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "monday"
+          ],
+          "startDate": "2026-11-30",
+          "endDate": "2026-12-18",
+          "startTime": "18:00",
+          "durationMinutes": 180
+        },
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "thursday"
+          ],
+          "startDate": "2026-11-26",
+          "endDate": "2026-12-18",
+          "startTime": "18:00",
+          "durationMinutes": 180
+        }
+      ]
+    },
+    {
+      "id": "rosemount_writing",
+      "activityId": "rosemount_writing",
+      "activityName": "Creative Writing",
+      "description": "A group exploring writing techniques and exercises.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": 2.5,
+      "maximumPrice": 2.5,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": null,
+      "requirements": [
+        "Programme ends 18 December 2026",
+        "Enquiries/enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        8,
+        9
+      ],
+      "tags": [
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "monday"
+          ],
+          "startDate": "2026-11-30",
+          "endDate": "2026-12-18",
+          "startTime": "19:30",
+          "durationMinutes": 90
+        }
+      ]
+    },
+    {
+      "id": "rosemount_stitchers",
+      "activityId": "rosemount_stitchers",
+      "activityName": "Stitchers",
+      "description": "A social sewing and stitching group.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": 2.5,
+      "maximumPrice": 2.5,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": null,
+      "requirements": [
+        "Programme ends 18 December 2026",
+        "Enquiries/enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        8,
+        9
+      ],
+      "tags": [
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "tuesday"
+          ],
+          "startDate": "2026-12-01",
+          "endDate": "2026-12-18",
+          "startTime": "10:00",
+          "durationMinutes": 180
+        },
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "thursday"
+          ],
+          "startDate": "2026-11-26",
+          "endDate": "2026-12-18",
+          "startTime": "18:00",
+          "durationMinutes": 180
+        }
+      ]
+    },
+    {
+      "id": "rosemount_chimers",
+      "activityId": "rosemount_chimers",
+      "activityName": "Chapel Chimers",
+      "description": "Hand-chime music group for older women.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": 2.5,
+      "maximumPrice": 2.5,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": null,
+      "requirements": [
+        "Programme ends 18 December 2026",
+        "Enquiries/enrolment: rosemountcca@gmail.com or 07443 657741",
+        "Group is aimed at older women"
+      ],
+      "ageSuitability": "adultsOnly",
+      "categories": [
+        0,
+        9
+      ],
+      "tags": [
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "tuesday"
+          ],
+          "startDate": "2026-12-01",
+          "endDate": "2026-12-18",
+          "startTime": "10:30",
+          "durationMinutes": 90
+        }
+      ]
+    },
+    {
+      "id": "rosemount_orchestra",
+      "activityId": "rosemount_orchestra",
+      "activityName": "Learig Orchestra",
+      "description": "Community orchestra rehearsing classical repertoire.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": 2.5,
+      "maximumPrice": 2.5,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": null,
+      "requirements": [
+        "Programme ends 18 December 2026",
+        "Enquiries/enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        0,
+        9
+      ],
+      "tags": [
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "tuesday"
+          ],
+          "startDate": "2026-12-01",
+          "endDate": "2026-12-18",
+          "startTime": "19:30",
+          "durationMinutes": 120
+        }
+      ]
+    },
+    {
+      "id": "rosemount_crochet",
+      "activityId": "rosemount_crochet",
+      "activityName": "Crochet and Company",
+      "description": "Crochet alongside other local crafters.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": 2.5,
+      "maximumPrice": 2.5,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": null,
+      "requirements": [
+        "Programme ends 18 December 2026",
+        "Enquiries/enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        8,
+        9
+      ],
+      "tags": [
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "wednesday"
+          ],
+          "startDate": "2026-12-02",
+          "endDate": "2026-12-18",
+          "startTime": "10:00",
+          "durationMinutes": 120
+        }
+      ]
+    },
+    {
+      "id": "rosemount_table_tennis",
+      "activityId": "rosemount_table_tennis",
+      "activityName": "Table Tennis",
+      "description": "Social table tennis with coaching support.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": 2.5,
+      "maximumPrice": 2.5,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": null,
+      "requirements": [
+        "Programme ends 18 December 2026",
+        "Enquiries/enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        1,
+        9
+      ],
+      "tags": [
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "wednesday"
+          ],
+          "startDate": "2026-12-02",
+          "endDate": "2026-12-18",
+          "startTime": "09:30",
+          "durationMinutes": 90
+        }
+      ]
+    },
+    {
+      "id": "rosemount_forget_me_not",
+      "activityId": "rosemount_forget_me_not",
+      "activityName": "Forget Me Not: Life Partner Loss Group",
+      "description": "Peer support for people bereaved of a partner.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": 2.5,
+      "maximumPrice": 2.5,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": null,
+      "requirements": [
+        "Programme ends 18 December 2026",
+        "Enquiries/enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "adultsOnly",
+      "categories": [
+        7,
+        9
+      ],
+      "tags": [
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "thursday"
+          ],
+          "startDate": "2026-11-26",
+          "endDate": "2026-12-18",
+          "startTime": "10:00",
+          "durationMinutes": 120
+        }
+      ]
+    },
+    {
+      "id": "rosemount_racketeers",
+      "activityId": "rosemount_racketeers",
+      "activityName": "Racketeers",
+      "description": "Social badminton group welcoming new players.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": 2.5,
+      "maximumPrice": 2.5,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": null,
+      "requirements": [
+        "Programme ends 18 December 2026",
+        "Enquiries/enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        1,
+        9
+      ],
+      "tags": [
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "thursday"
+          ],
+          "startDate": "2026-11-26",
+          "endDate": "2026-12-18",
+          "startTime": "13:30",
+          "durationMinutes": 150
+        }
+      ]
+    },
+    {
+      "id": "rosemount_repairs",
+      "activityId": "rosemount_repairs",
+      "activityName": "Old to New Repairs and Alterations",
+      "description": "Bring clothing or textile projects for repairs and alterations.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": 2.5,
+      "maximumPrice": 2.5,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": null,
+      "requirements": [
+        "Enquiries: rosemountcca@gmail.com"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        8,
+        9
+      ],
+      "tags": [
+        "sewing",
+        "craft",
+        "community"
+      ],
+      "timeOptions": [
+        {
+          "id": "rosemount-repairs-20261208-1400",
+          "date": "2026-12-08",
+          "startTime": "14:00",
+          "durationMinutes": 120
+        }
+      ],
+      "recurrenceRules": []
+    },
+    {
+      "id": "rosemount_chair_yoga",
+      "activityId": "rosemount_chair_yoga",
+      "activityName": "Chair Yoga",
+      "description": "Tutor-led chair yoga class.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": true,
+      "requirements": [
+        "Published eight-week block price £29–£42; check remaining-term cost and availability",
+        "Enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        1,
+        7
+      ],
+      "tags": [
+        "class",
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "monday"
+          ],
+          "startDate": "2026-11-30",
+          "endDate": "2026-12-18",
+          "startTime": "14:00",
+          "durationMinutes": 60
+        }
+      ]
+    },
+    {
+      "id": "rosemount_sewing_projects",
+      "activityId": "rosemount_sewing_projects",
+      "activityName": "Sewing Projects",
+      "description": "Tutor-led sewing projects class.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": true,
+      "requirements": [
+        "Published eight-week block price £74–£105; check remaining-term cost and availability",
+        "Enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        8,
+        9
+      ],
+      "tags": [
+        "class",
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "monday"
+          ],
+          "startDate": "2026-11-30",
+          "endDate": "2026-12-18",
+          "startTime": "18:00",
+          "durationMinutes": 150
+        }
+      ]
+    },
+    {
+      "id": "rosemount_spanish_1",
+      "activityId": "rosemount_spanish_1",
+      "activityName": "Spanish Level 1",
+      "description": "Tutor-led spanish level 1 class.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": true,
+      "requirements": [
+        "Published eight-week block price £44–£63; check remaining-term cost and availability",
+        "Enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        8
+      ],
+      "tags": [
+        "class",
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "monday"
+          ],
+          "startDate": "2026-11-30",
+          "endDate": "2026-12-18",
+          "startTime": "18:30",
+          "durationMinutes": 90
+        }
+      ]
+    },
+    {
+      "id": "rosemount_sewing_beginners",
+      "activityId": "rosemount_sewing_beginners",
+      "activityName": "Sewing Beginners",
+      "description": "Tutor-led sewing beginners class.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": true,
+      "requirements": [
+        "Published eight-week block price £74–£105; check remaining-term cost and availability",
+        "Enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        8
+      ],
+      "tags": [
+        "class",
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "tuesday"
+          ],
+          "startDate": "2026-12-01",
+          "endDate": "2026-12-18",
+          "startTime": "18:00",
+          "durationMinutes": 150
+        }
+      ]
+    },
+    {
+      "id": "rosemount_kids_art_p1_p5",
+      "activityId": "rosemount_kids_art_p1_p5",
+      "activityName": "Kids Art Activities P1–P5",
+      "description": "Tutor-led kids art activities p1–p5 class.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": true,
+      "requirements": [
+        "Published eight-week block price £44; check remaining-term cost and availability",
+        "Enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "children",
+      "categories": [
+        0,
+        8
+      ],
+      "tags": [
+        "class",
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "wednesday"
+          ],
+          "startDate": "2026-12-02",
+          "endDate": "2026-12-18",
+          "startTime": "17:30",
+          "durationMinutes": 90
+        }
+      ]
+    },
+    {
+      "id": "rosemount_kids_art_p6_s3",
+      "activityId": "rosemount_kids_art_p6_s3",
+      "activityName": "Kids Art Projects P6–S3",
+      "description": "Tutor-led kids art projects p6–s3 class.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": true,
+      "requirements": [
+        "Published eight-week block price £44; check remaining-term cost and availability",
+        "Enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "children",
+      "categories": [
+        0,
+        8
+      ],
+      "tags": [
+        "class",
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "wednesday"
+          ],
+          "startDate": "2026-12-02",
+          "endDate": "2026-12-18",
+          "startTime": "19:00",
+          "durationMinutes": 90
+        }
+      ]
+    },
+    {
+      "id": "rosemount_german_2",
+      "activityId": "rosemount_german_2",
+      "activityName": "German Level 2",
+      "description": "Tutor-led german level 2 class.",
+      "venueName": "Rosemount Community Centre, Belgrave Terrace, Aberdeen",
+      "minimumPrice": null,
+      "maximumPrice": null,
+      "activityLink": "https://www.rcca.info/_files/ugd/1cf1bc_26ddf15c771c48ec810d02fce3a809b9.pdf",
+      "bookingRequired": true,
+      "requirements": [
+        "Published eight-week block price £44–£63; check remaining-term cost and availability",
+        "Enrolment: rosemountcca@gmail.com or 07443 657741"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        8
+      ],
+      "tags": [
+        "class",
+        "community",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "thursday"
+          ],
+          "startDate": "2026-11-26",
+          "endDate": "2026-12-18",
+          "startTime": "18:00",
+          "durationMinutes": 90
+        }
+      ]
+    },
+    {
+      "id": "walk_aberdeen_dyce",
+      "activityId": "walk_aberdeen_dyce",
+      "activityName": "Walk Aberdeen - Dyce",
+      "description": "A led, low-intensity social health walk.",
+      "venueName": "Asda Dyce Café area, Aberdeen",
+      "minimumPrice": 0,
+      "maximumPrice": 0,
+      "activityLink": "https://walkingscotland.org.uk/walk-project/walk-aberdeen/",
+      "bookingRequired": null,
+      "requirements": [
+        "Confirm meeting point and holiday dates: 01224 047928 or BHarrison@sportaberdeen.co.uk"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        1,
+        7,
+        5
+      ],
+      "tags": [
+        "walking",
+        "outdoors",
+        "free",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "tuesday"
+          ],
+          "startDate": "2026-12-01",
+          "endDate": null,
+          "startTime": "13:45",
+          "durationMinutes": null
+        }
+      ]
+    },
+    {
+      "id": "walk_aberdeen_alex_collie",
+      "activityId": "walk_aberdeen_alex_collie",
+      "activityName": "Walk Aberdeen - Alex Collie",
+      "description": "A led, low-intensity social health walk.",
+      "venueName": "Alex Collie, AB22 8PE, Aberdeen",
+      "minimumPrice": 0,
+      "maximumPrice": 0,
+      "activityLink": "https://walkingscotland.org.uk/walk-project/walk-aberdeen/",
+      "bookingRequired": null,
+      "requirements": [
+        "Confirm meeting point and holiday dates: 01224 047928 or BHarrison@sportaberdeen.co.uk"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        1,
+        7,
+        5
+      ],
+      "tags": [
+        "walking",
+        "outdoors",
+        "free",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "monday"
+          ],
+          "startDate": "2026-11-30",
+          "endDate": null,
+          "startTime": "10:30",
+          "durationMinutes": null
+        }
+      ]
+    },
+    {
+      "id": "walk_aberdeen_sheddocksley",
+      "activityId": "walk_aberdeen_sheddocksley",
+      "activityName": "Walk Aberdeen - Sheddocksley",
+      "description": "A led, low-intensity social health walk.",
+      "venueName": "Sheddocksley, AB16 6QJ, Aberdeen",
+      "minimumPrice": 0,
+      "maximumPrice": 0,
+      "activityLink": "https://walkingscotland.org.uk/walk-project/walk-aberdeen/",
+      "bookingRequired": null,
+      "requirements": [
+        "Confirm meeting point and holiday dates: 01224 047928 or BHarrison@sportaberdeen.co.uk"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        1,
+        7,
+        5
+      ],
+      "tags": [
+        "walking",
+        "outdoors",
+        "free",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "wednesday"
+          ],
+          "startDate": "2026-12-02",
+          "endDate": null,
+          "startTime": "13:30",
+          "durationMinutes": null
+        }
+      ]
+    },
+    {
+      "id": "walk_aberdeen_jesmond",
+      "activityId": "walk_aberdeen_jesmond",
+      "activityName": "Walk Aberdeen - Jesmond",
+      "description": "A led, low-intensity social health walk.",
+      "venueName": "Jesmond, AB22 8UR, Aberdeen",
+      "minimumPrice": 0,
+      "maximumPrice": 0,
+      "activityLink": "https://walkingscotland.org.uk/walk-project/walk-aberdeen/",
+      "bookingRequired": null,
+      "requirements": [
+        "Confirm meeting point and holiday dates: 01224 047928 or BHarrison@sportaberdeen.co.uk"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        1,
+        7,
+        5
+      ],
+      "tags": [
+        "walking",
+        "outdoors",
+        "free",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "thursday"
+          ],
+          "startDate": "2026-11-26",
+          "endDate": null,
+          "startTime": "10:30",
+          "durationMinutes": null
+        }
+      ]
+    },
+    {
+      "id": "walk_aberdeen_nepalese",
+      "activityId": "walk_aberdeen_nepalese",
+      "activityName": "Walk Aberdeen - Nepalese Walking Group",
+      "description": "A led, low-intensity social health walk.",
+      "venueName": "Westburn Park, Aberdeen",
+      "minimumPrice": 0,
+      "maximumPrice": 0,
+      "activityLink": "https://walkingscotland.org.uk/walk-project/walk-aberdeen/",
+      "bookingRequired": null,
+      "requirements": [
+        "Confirm meeting point and holiday dates: 01224 047928 or BHarrison@sportaberdeen.co.uk"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        1,
+        7,
+        5
+      ],
+      "tags": [
+        "walking",
+        "outdoors",
+        "free",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "saturday"
+          ],
+          "startDate": "2026-11-28",
+          "endDate": null,
+          "startTime": "11:30",
+          "durationMinutes": null
+        }
+      ]
+    },
+    {
+      "id": "walk_aberdeen_first_steps_jesmond",
+      "activityId": "walk_aberdeen_first_steps_jesmond",
+      "activityName": "Walk Aberdeen - First Steps – Jesmond",
+      "description": "A led, low-intensity social health walk.",
+      "venueName": "Jesmond, AB22 8UR, Aberdeen",
+      "minimumPrice": 0,
+      "maximumPrice": 0,
+      "activityLink": "https://walkingscotland.org.uk/walk-project/walk-aberdeen/",
+      "bookingRequired": null,
+      "requirements": [
+        "Confirm meeting point and holiday dates: 01224 047928 or BHarrison@sportaberdeen.co.uk"
+      ],
+      "ageSuitability": "allAges",
+      "categories": [
+        1,
+        7,
+        5
+      ],
+      "tags": [
+        "walking",
+        "outdoors",
+        "free",
+        "weekly"
+      ],
+      "timeOptions": [],
+      "recurrenceRules": [
+        {
+          "frequency": "weekly",
+          "weekdays": [
+            "tuesday"
+          ],
+          "startDate": "2026-12-01",
+          "endDate": null,
+          "startTime": "12:30",
+          "durationMinutes": null
         }
       ]
     }
