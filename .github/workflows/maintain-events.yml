@@ -11,6 +11,11 @@ on:
         required: false
         default: true
         type: boolean
+      allow_large_removal:
+        description: "Allow removal of more than 25% of activities after manual review"
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -41,11 +46,17 @@ jobs:
       - name: Run maintenance
         env:
           MANUAL_DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || false }}
+          MANUAL_ALLOW_LARGE_REMOVAL: ${{ github.event_name == 'workflow_dispatch' && inputs.allow_large_removal || false }}
         run: |
+          MAINTENANCE_ARGS=""
+          if [ "$MANUAL_ALLOW_LARGE_REMOVAL" = "true" ]; then
+            MAINTENANCE_ARGS="--allow-large-removal"
+          fi
+
           if [ "$MANUAL_DRY_RUN" = "true" ]; then
-            python scripts/maintain_events.py --dry-run
+            python scripts/maintain_events.py --dry-run $MAINTENANCE_ARGS
           else
-            python scripts/maintain_events.py --apply
+            python scripts/maintain_events.py --apply $MAINTENANCE_ARGS
           fi
 
       - name: Validate maintained feed
